@@ -1,3 +1,6 @@
+# Installing required packages in Databricks environment
+%pip install yfinance
+
 import streamlit as st
 import sqlite3
 import pandas as pd
